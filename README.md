@@ -1,6 +1,6 @@
 # Hotel_DashBoard
 Develop a database to analyze and visualize 
-![](hotel_image)
+![](hotel_image.jpg)
 
 
 This project is aimed at giving business insights of an hotel so as to aid the management to make/take progressive decisions. 
