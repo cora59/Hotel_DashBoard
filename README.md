@@ -1,6 +1,8 @@
 # Hotel_DashBoard
 Develop a database to analyze and visualize 
 ![](hotel_image)
+
+
 This project is aimed at giving business insights of an hotel so as to aid the management to make/take progressive decisions. 
 A dashboard will be created to present to stakeholders.
 
@@ -11,11 +13,11 @@ A dashboard will be created to present to stakeholders.
 
 ## Data Analysis project pipeline
  ----
-a) Build a Database
-b) Develop the SQL Query
-c) connect Power Bi to the Database
-d) Visualize
-e) Summarize findings
+* Build a Database
+* Develop the SQL Query
+* connect Power Bi to the Database
+* Visualize
+* Summarize findings
 
 ## Skills used in the project
  MySQL server management studio, Powerbi 
