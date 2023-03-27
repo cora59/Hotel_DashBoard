@@ -24,13 +24,18 @@ A dashboard will be created to present to stakeholders.
 
 ## Data Transformation
    we will be performing exploratory analysis on the data set in this project so as to help answer the business questions required. The flat file is in csv which was uploaded into SQL server management studio where most data wrangling  was carried out before connecting the database to Powerbi using power Query.
-
-## Creating a Database
+   
+  ## Creating a Database
 A new database was created with the name Historical Hotel.
 The excel was upload with aid of the import & export wizard.
 Next was to choose a data source, in this case our data source will be from Microsoft excel, The file path will be the excel file we want to work with and lastly I pick the 2007-2010 version of Excel from the drop down. 
-NB: This might not be the same for everyone. I tried choosing the recent version but kept getting errors. I was frustrated for a sec(emoji) but I tried every version in the drop down till I got no error prompt.
-Data Enriching
+
+_NB_: This might not be the same for everyone. I tried choosing the recent version but kept getting errors. I was frustrated for a sec 😰 but I tried every version in the drop down till I got no error prompt.
+![](Create DB.png)
+
+
+##### <h1 align="center">Data Enriching </h1>
+
 Querying the 2018,2019 & 2020 tables to have a detailed look at the fields was quite difficult studying each table in different windows. The tables were appended making use of " union" operator to have a unified data set. 
 A table function(common table expression) was created encapsulating the query into one table and rename as "Hotels".
 Image
