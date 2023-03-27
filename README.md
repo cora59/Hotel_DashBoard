@@ -39,7 +39,7 @@ _NB_: This might not be the same for everyone. I tried choosing the recent versi
 
 Querying the 2018,2019 & 2020 tables to have a detailed look at the fields was quite difficult studying each table in different windows. The tables were appended making use of " union" operator to have a unified data set. 
 A table function(common table expression) was created encapsulating the query into one table and rename as "Hotels".
-Image
+
 
 # Exploratory Analysis & Developing SQL Query
 First, the revenue column was created using the adr, stay in week nights & stay in weekend nights.
