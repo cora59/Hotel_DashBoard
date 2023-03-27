@@ -47,7 +47,7 @@ Import the SQL query through the get data button on Power Bi.
 Measures were created and used to replace calculated columns for better visualizations. 
 
 # Visualization 
-	image
+![](Dashboard.png)
 # Summary Findings
 
 Based on the exploratory analysis, it was discovered that the hotel revenue has been growing steadily from 2018 to 2020. Also, there was a significant increase in revenue from the second quarter of each year. This could be an indication of a high demand for hotel services during this period, which could inform the hotel management to increase their marketing and promotional activities during this period.
