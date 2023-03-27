@@ -31,6 +31,7 @@ The excel was upload with aid of the import & export wizard.
 Next was to choose a data source, in this case our data source will be from Microsoft excel, The file path will be the excel file we want to work with and lastly I pick the 2007-2010 version of Excel from the drop down. 
 
 _NB_: This might not be the same for everyone. I tried choosing the recent version but kept getting errors. I was frustrated for a sec 😰 but I tried every version in the drop down till I got no error prompt.
+
 ![](Create DB.png)
 
 
